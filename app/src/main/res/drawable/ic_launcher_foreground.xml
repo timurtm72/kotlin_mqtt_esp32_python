@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Облако (символизирует MQTT) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,30 C44,30 36,38 36,48 C36,58 44,66 54,66 C64,66 72,58 72,48 C72,38 64,30 54,30 Z"/>
+    
+    <!-- Стрелки (символизируют передачу данных) -->
+    <path
+        android:fillColor="#E1F5FE"
+        android:pathData="M48,45 L60,45 L54,38 Z"/>
+    <path
+        android:fillColor="#E1F5FE"
+        android:pathData="M60,51 L48,51 L54,58 Z"/>
+    
+    <!-- Термометр (символизирует датчик температуры) -->
+    <path
+        android:fillColor="#FF5252"
+        android:pathData="M51,42 L53,42 L53,54 A2,2 0 1,1 51,54 Z"/>
+    
+    <!-- Капля (символизирует влажность) -->
+    <path
+        android:fillColor="#81D4FA"
+        android:pathData="M57,42 C57,42 60,48 60,50 C60,52.2 58.2,54 56,54 C53.8,54 52,52.2 52,50 C52,48 55,42 55,42 Z"/>
+</vector>
