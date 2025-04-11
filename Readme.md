@@ -1,7 +1,8 @@
 # Android MQTT IoT Control Application
 
 Это Android приложение на Kotlin для мониторинга данных с датчика DHT (температура и влажность) и управления RGB светодиодом через MQTT протокол. Приложение взаимодействует с устройством ESP32, отображает данные в виде графиков и позволяет настраивать цвет и яркость светодиода.
-
+Проект на мк https://github.com/timurtm72/esp_idf_esp32_mqtt_android/tree/main
+Проект на Python https://github.com/timurtm72/python_mqtt_esp32_android/tree/main
 ## Основы Kotlin и структура проекта
 
 ### 1. Объявление пакета и импорты
