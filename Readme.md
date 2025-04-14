@@ -150,4 +150,4 @@ git clone https://github.com/timurtm72/AndroidMqttProject.git
 ## Связанные проекты
 - [ESP32 прошивка](https://github.com/timurtm72/esp_idf_esp32_mqtt_android)
 - [Flutter приложение](https://github.com/timurtm72/flutter_android_mqtt_python_esp32)
-- [Python GUI приложение](https://github.com/timurtm72/python_mqtt_esp32_control)
+- [Python GUI приложение](https://github.com/timurtm72/python_mqtt_esp32_android)
